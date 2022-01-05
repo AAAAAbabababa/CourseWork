@@ -1,0 +1,16 @@
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\Kursach.exe
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\Kursach.deps.json
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\Kursach.runtimeconfig.json
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\Kursach.runtimeconfig.dev.json
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\Kursach.dll
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\ref\Kursach.dll
+C:\Users\HotWai\source\repos\Kursach\Kursach\bin\Debug\net5.0\Kursach.pdb
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.csproj.AssemblyReference.cache
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.AssemblyInfoInputs.cache
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.AssemblyInfo.cs
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.dll
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\ref\Kursach.dll
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.pdb
+C:\Users\HotWai\source\repos\Kursach\Kursach\obj\Debug\net5.0\Kursach.genruntimeconfig.cache
